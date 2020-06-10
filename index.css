@@ -1,0 +1,111 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+#page-wrapper {
+    background-color: black;
+    font-size: 13pt;
+    font-family: 'Roboto', sans-serif
+}
+
+#navbarNavDropdown {
+    justify-content: end;
+}
+
+#header {
+    background-image: url(images/1.jpg);
+    min-height: 500px;
+    background-size: contain;
+    background-size: cover;
+    background-position: center;
+    text-align: center;
+    justify-content: center;
+}
+
+#logo {
+    max-width: 400px;
+    margin-top: 90px;
+}
+
+#texto-1 {
+    text-align: center;
+    justify-content: center;
+    color: gainsboro;
+    background-color: black;
+    font-family: 'Roboto', sans-serif
+}
+
+#texto1-1 {
+    margin-top: 40px;
+    font-size: 15;
+    margin-top: 90px;
+    margin-bottom: 40px;
+    color: gray;
+}
+
+#texto1-1 h1 {
+    font-weight: 700;
+    color: white;
+}
+
+#gif-1 {
+    text-align: center;
+    width: 420px;
+    margin-top: 70px;
+    height: 230px;
+}
+
+#texto2 {
+    background-color: black;
+    text-align: center;
+    color: white;
+}
+
+#texto2 h1 {
+    font-weight: 700;
+    margin-top: 70px;
+}
+
+#texto2 {
+    background-color: black;
+}
+
+#texto2 img {
+    width: 100%;
+}
+
+#texto3 {
+    margin-top: 50px;
+    text-align: center;
+}
+
+#texto3 h1 {
+    color: gray;
+}
+
+#texto3-1 {
+    margin-top: 40px;
+    min-width: 450px;
+    margin-bottom: 50px;
+    color: gray;
+}
+
+#texto3-1 h1 {
+    font-weight: 700;
+    color: white;
+}
+
+#texto3-2 img {
+    width: 100%;
+}
+
+hr {
+    color: white;
+}
+
+#footer {
+    background-color: rgb(36, 36, 36);
+    padding: 30px;
+    color: white;
+}
